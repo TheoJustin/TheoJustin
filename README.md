@@ -63,19 +63,6 @@
 
 ---
 
-<h2 align="left">🌐 Connect with Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/theo-justin-675911253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://discord.com/users/317094454089482253" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
-
----
-
 <!--
 **TheoJustin/TheoJustin** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
