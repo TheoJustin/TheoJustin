@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Theo Justin</strong> <br>
-  <em>Born: 10 January 2004</em> <br>
+  <em>21 y/o</em> <br>
   <a href="https://www.linkedin.com/in/theo-justin-675911253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
