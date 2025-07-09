@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 👋</h1>
+<h1 align="center">Welcome to my Github Profile! 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Theo%20Justin%20Amantha&reversal=false&desc=Fullstack%20Developer%20and%20AI%20Engineer&animation=fadeIn&descAlign=50&descAlignY=55&fontColor=000000&fontSize=65&fontAlignY=35">
@@ -15,7 +15,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  I am passionate about developing innovative solutions and continuously exploring new challenges. Over the years, I've had the opportunity to win several hackathons and work on various exciting projects. With many big projects on the horizon, I'm always looking forward to pushing the boundaries of what's possible in technology.
+  I am passionate about developing innovative solutions and continuously exploring new challenges. Over the years, I've had the opportunity to win several hackathons and work on various projects that has made an impact to the society. Please do connect with me through linkedin or discord for details!
 </p>
 
 ---
