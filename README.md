@@ -1,8 +1,7 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 <p align="center">
-  <strong>Theo Justin</strong> <br>
-  <em>21 y/o</em> <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Theo%20Justin%20Amantha&reversal=false&desc=Fullstack%20Developer%20and%20AI%20Engineer&animation=fadeIn&descAlign=50&descAlignY=55&fontColor=000000&fontSize=65&fontAlignY=35">
   <a href="https://www.linkedin.com/in/theo-justin-675911253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -18,11 +17,6 @@
 <p align="left">
   I am passionate about developing innovative solutions and continuously exploring new challenges. Over the years, I've had the opportunity to win several hackathons and work on various exciting projects. With many big projects on the horizon, I'm always looking forward to pushing the boundaries of what's possible in technology.
 </p>
-
----
-
-
-<br clear="left"/>
 
 ---
 
