@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github Profile! 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Theo%20Justin%20Amantha&reversal=false&desc=Fullstack%20Developer%20and%20AI%20Engineer&animation=fadeIn&descAlign=50&descAlignY=55&fontColor=000000&fontSize=65&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Theo%20Justin%20Amantha&reversal=false&desc=DApp%20Fullstack%20Developer%20and%20AI%20Engineer&animation=fadeIn&descAlign=50&descAlignY=55&fontColor=000000&fontSize=65&fontAlignY=35">
   <a href="https://www.linkedin.com/in/theo-justin-675911253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
