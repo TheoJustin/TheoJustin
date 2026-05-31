@@ -15,17 +15,16 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  Co-Founder @ Nullabs -- Proven
-  AI Builder Lead @BlockDev
-  MLOps / AI Engineer @ Komunal
-  AI Engineer @ PutraGadai
-  ex-Subject Coordinator JLA @Binus
+  Co-Founder @ Nullabs -- Proven <br />
+  AI Builder Lead @ BlockDev <br />
+  MLOps / AI Engineer @ Komunal <br />
+  AI Engineer @ PutraGadai <br />
+  ex-Subject Coordinator JLA @ Binus
 </p>
 
 <p align="left">
   Working with other projects (Upcoming) -- 🥇
 </p>
-
 
 ---
 
