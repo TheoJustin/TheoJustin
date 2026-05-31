@@ -15,8 +15,17 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  I am passionate about developing innovative solutions and continuously exploring new challenges. Over the years, I've had the opportunity to win several hackathons and work on various projects that has made an impact to the society. Please do connect with me through linkedin or discord for details!
+  Co-Founder @ Nullabs -- Proven
+  AI Builder Lead @BlockDev
+  MLOps / AI Engineer @ Komunal
+  AI Engineer @ PutraGadai
+  ex-Subject Coordinator JLA @Binus
 </p>
+
+<p align="left">
+  Working with other projects (Upcoming) -- 🥇
+</p>
+
 
 ---
 
